@@ -20,7 +20,7 @@ public class BisectionMethod {
             }
 
         }
-        System.out.println(results);
+        //System.out.println(results);
         return c;
     }
 
