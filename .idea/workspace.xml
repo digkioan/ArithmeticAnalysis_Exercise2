@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="06fb1f77-965d-45da-89ef-6bfb17e65cfc" name="Changes" comment="1st">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BisectionMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BisectionMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BisectionMethod2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BisectionMethod2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NewtonRaphson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NewtonRaphson2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SecantMethod2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecantMethod2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,9 +46,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ArithmeticAnalysis_Exercise2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main2" />
       <module name="ArithmeticAnalysis_Exercise2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.RandomDouble" />
       </list>
@@ -81,6 +87,7 @@
       <workItem from="1702837363058" duration="4197000" />
       <workItem from="1702841823639" duration="114000" />
       <workItem from="1703062858352" duration="13103000" />
+      <workItem from="1703410559078" duration="11341000" />
     </task>
     <task id="LOCAL-00001" summary="1st">
       <created>1702841669830</created>

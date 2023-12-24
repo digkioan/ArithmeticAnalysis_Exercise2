@@ -13,10 +13,9 @@ public class BisectionMethod2 {
             randomDouble=new RandomDouble();
             int i=0;
             while(Math.abs(b-a)>0.00001 && i<100) {
-                c =randomDouble.getRandomDouble(lower, upper);
+                c =randomDouble.getRandomDouble(a, b);
                 result = function.f(c);
                 results.add(c);
-                //System.out.println("result "+i+" = "+c);
                 i++;
                 if (result * function.f(a) < 0) {
                     b = c;
@@ -25,7 +24,6 @@ public class BisectionMethod2 {
                 }
 
             }
-            //System.out.println(results);
             return c;
         }
 
